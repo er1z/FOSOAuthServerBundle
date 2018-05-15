@@ -10,7 +10,7 @@
             <argument>%fos_oauth_server.authorize.form.type%</argument>
             <argument>null</argument>
             <argument type="collection">
-                <argument key="validation_groups">%fos_oauth_server.authorize.form.validation_groups%</argument>
+                <!--<argument key="validation_groups">%fos_oauth_server.authorize.form.validation_groups%</argument>-->
             </argument>
         </service>
 
